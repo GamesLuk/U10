@@ -17,7 +17,7 @@ public class H1_main {
 
         printGrid(grid);
 
-        grid.computeGeneration(2);
+        grid.computeGeneration(1);
 
         printGrid(grid);
 
